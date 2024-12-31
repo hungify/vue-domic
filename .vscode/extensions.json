@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "vitest.explorer",
+    "EditorConfig.EditorConfig",
+    "antfu.iconify",
+    "antfu.unocss",
+    "antfu.goto-alias",
+    "csstools.postcss",
+    "dbaeumer.vscode-eslint",
+    "vue.volar"
+  ]
+}
